@@ -136,8 +136,10 @@
       "word-spacing",
       "word-wrap",
       "word-break",
-      "tab-size",
-      "hyphens"
+      "overflow-wrap",
+      "-ms-word-break",
+      "hyphens",
+      "tab-size"
     ],
     [
       "background",
@@ -201,6 +203,7 @@
       "animation-delay",
       "animation-iteration-count",
       "animation-direction",
+      "filter",
       "outline",
       "outline-width",
       "outline-style",
