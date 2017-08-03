@@ -1,6 +1,6 @@
 {
   "name": "csscomb-config-rawbot",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Rawbot CSSComb common configuration (CSS/SCSS styleguide)",
   "main": "index.json",
   "repository": {
