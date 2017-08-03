@@ -1,0 +1,24 @@
+{
+  "name": "csscomb-config-rawbot",
+  "version": "0.1.0",
+  "description": "Rawbot CSSComb common configuration (CSS/SCSS styleguide)",
+  "main": "index.json",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/team-rawbot/csscomb-config-rawbot.git"
+  },
+  "keywords": [
+    "csscomb",
+    "csscomb-config",
+    "styleguide"
+  ],
+  "author": "Benoît Burgener",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/team-rawbot/csscomb-config-rawbot/issues"
+  },
+  "homepage": "https://github.com/team-rawbot/csscomb-config-rawbot#readme",
+  "peerDependencies": {
+    "csscomb": ">= 4"
+  }
+}
